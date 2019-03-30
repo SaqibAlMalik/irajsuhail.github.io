@@ -1,2 +1,2 @@
 # Personal website
-Wanna checkout go [here](irajsuhail.github.io)
+Wanna checkout go [Here](https://irajsuhail.github.io "My Website")
